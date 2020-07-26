@@ -7,15 +7,13 @@ permalink: /about/
 ## In few words
 
 In work - 
-I have been doing Machine learning, NLP and Big data engineering before.   
+I have been doing Machine learning Engineering, NLP and Big data engineering before.   
 
-I write blogs about technology, inspiring people, business, travel and my crazy ideas.
+Till now, I have writeen few blogs on programming and machine learning. My writing will be about books, ideas, inspiring people and the business..... 
 
-I am growth seeker in my work, personality, and working with people.
-Married to wonderful girl [Priyanka](http://priyankababar4.github.io/) 
+I am growth seeker in my work, personality, and working with people. In personl life, I am married to wonderful girl [Priyanka](http://priyankababar4.github.io/). 
 
-Hails from Osmanabad, Maharasthra. currently live and work in Pune. 
-
+I currently live and work in Pune, India. 
 
 ## Talks 
 
